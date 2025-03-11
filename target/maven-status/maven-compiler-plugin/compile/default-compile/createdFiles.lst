@@ -1,0 +1,7 @@
+izly\Purse.class
+izly\CodeFauxException.class
+izly\MontantNegatifInterdit.class
+izly\MotifRejetTransactionException.class
+izly\DepassementPlafondInterdit.class
+izly\SoldeNegatifInterdit.class
+izly\FinDeVieException.class
